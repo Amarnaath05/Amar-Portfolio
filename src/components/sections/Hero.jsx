@@ -33,7 +33,7 @@ export default function Hero() {
             <h1 className="text-5xl md:text-7xl font-bold font-display leading-tight">
               MERN Stack <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary">
-                & ML Engineer
+                & Generative AI Engineer
               </span>
             </h1>
           </div>
